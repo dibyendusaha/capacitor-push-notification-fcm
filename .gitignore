@@ -1,0 +1,6 @@
+## ignoring vscode settings file
+.vscode
+
+# node files
+dist/
+node_modules/
