@@ -1,6 +1,13 @@
 ## ignoring vscode settings file
 .vscode
 
-# node files
+## node files
 dist/
 node_modules/
+
+## android files
+android/.gradle
+android/.idea
+android/build
+android/android.iml
+android/local.properties
